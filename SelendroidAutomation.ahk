@@ -15,7 +15,7 @@ OnMessage(0x201, "WM_LBUTTONDOWN")
 			"desiredCapabilities": {
 				"platformName": "Android",
 				"deviceName": "SelendroidTester",
-				"app": "{}/apks/selendroid-test-app-0.17.0.apk"
+				"app": "{}/selendroid-test-app-0.17.0.apk"
 			}
 		}
 	)
